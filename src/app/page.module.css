@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.hyperlink {
+  color: #0000ee;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+}
+
+/* Tablet and Smaller Desktop */
+@media (max-width: 450px) {
+}
+
+@media (prefers-color-scheme: dark) {
+}
+
